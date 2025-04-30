@@ -1,0 +1,20 @@
+site_name: Aditya Chander
+site_url: https://ccrma.stanford.edu/~aditya/adityachander/
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Resume and CV: resume.md
+
+theme:
+  name: null
+  custom_dir: cinder
+  colorscheme: dracula
+
+docs_dir: 'docs'
+site_dir: 'adityachander'
+
+use_directory_urls: true
+
+markdown_extensions:
+  - attr_list
